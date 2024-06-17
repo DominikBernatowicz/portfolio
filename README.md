@@ -1,36 +1,92 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+<div align="center">
+  <h1 align="center">My Portfolio</h1>
 
-## Getting Started
+   <div align="center">
+     The website is a way to present my skills and experience.
+    </div>
+</div>
 
-First, run the development server:
+## <a name="table">Table of Contents</a>
+
+1. [Introduction](#introduction)
+2. [Tech Stack](#tech-stack)
+3. [Features](#features)
+4. [How to run it](#how-to-run)
+
+## <a name="introduction">Introduction</a>
+
+Built on Next.js to handle the UI, Three.js to render 3D elements, Framer motion to create beautiful animations and styled with TailwindCSS
+
+## <a name="tech-stack">Tech Stack</a>
+
+- React.js
+- TypeScript
+- Tailwind CSS
+- Next.js
+- Three.js
+- Framer Motion
+
+## <a name="features">Features</a>
+
+👇 **Hero**: 
+
+    Dynamic animated light and first words.
+
+👇 **Hexagon Backgroud**: 
+
+    Highlighting follows the mouse to reveal the honeycomb shape hidden in the background.
+
+👇 **Bento Grid**: 
+
+    A grid showing personal information that I refined using CSS.
+
+👇 **3D Elements**:  
+
+    I also used 3D elements such as tilting design cards and a globe that can be rotated.
+
+👇 **Work Experience**: 
+
+    Presentation of my job with the company.
+
+👇 **Responsiveness**: 
+
+    The application is adapted to various types of devices, which improves the user experience.
+
+and much more, such as the ability to reuse components
+
+## <a name="how-to-run">How to run it</a>
+
+A few steps to get started.
+
+**Prerequisites**
+
+You must have it installed:
+
+- [Git](https://git-scm.com/)
+- [Node.js](https://nodejs.org/en)
+- [npm](https://www.npmjs.com/) (Node Package Manager)
+
+**Cloning the Repository**
+
+```bash
+git clone https://github.com/DominikBernatowicz/portfolio.git
+cd portfolio
+```
+
+**Installation**
+
+Install npm:
+
+```bash
+npm install
+```
+
+**Running the Project**
 
 ```bash
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Open [http://localhost:3000](http://localhost:3000)
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
-
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+#
