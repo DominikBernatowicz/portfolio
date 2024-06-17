@@ -1,6 +1,5 @@
 <div align="center">
   <h1 align="center">My Portfolio</h1>
-
    <div align="center">
      The website is a way to present my skills and experience.
     </div>
@@ -28,29 +27,17 @@ Built on Next.js to handle the UI, Three.js to render 3D elements, Framer motion
 
 ## <a name="features">Features</a>
 
-👇 **Hero**: 
+🟡 **Hero**: Dynamic animated light and first words.
 
-    Dynamic animated light and first words.
+🟡 **Hexagon Backgroud**: Highlighting follows the mouse to reveal the honeycomb shape hidden in the background.
 
-👇 **Hexagon Backgroud**: 
+🟡 **Bento Grid**: A grid showing personal information that I refined using CSS.
 
-    Highlighting follows the mouse to reveal the honeycomb shape hidden in the background.
+🟡 **3D Elements**:  I also used 3D elements such as tilting design cards and a globe that can be rotated.
 
-👇 **Bento Grid**: 
+🟡 **Work Experience**: Presentation of my job with the company.
 
-    A grid showing personal information that I refined using CSS.
-
-👇 **3D Elements**:  
-
-    I also used 3D elements such as tilting design cards and a globe that can be rotated.
-
-👇 **Work Experience**: 
-
-    Presentation of my job with the company.
-
-👇 **Responsiveness**: 
-
-    The application is adapted to various types of devices, which improves the user experience.
+🟡 **Responsiveness**: The application is adapted to various types of devices, which improves the user experience.
 
 and much more, such as the ability to reuse components
 
